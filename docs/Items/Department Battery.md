@@ -1,0 +1,3 @@
+# Department Battery
+(power_setup.png)
+The Department Battery supplies power to the area they placed in, its like a smaller Transformer,the Power coming from an Transformer or SMES with an small red cable (300V) and going to an APC with an blue/white cable (240V)
